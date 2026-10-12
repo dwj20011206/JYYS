@@ -494,16 +494,15 @@ CCTV17农业农村,http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29�
 江西卫视,http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8$LR•IPV4•29『线路13』
 江西卫视,http://by4.nty.tv189.cn/live/tm-ysjxws-4000k.m3u8$LR•IPV4•29『线路14』
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$LR•IPV4•29『线路1』
-山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong4k$LR•IPV4•29『线路2』
-山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$LR•IPV4•29『线路3』
-山东卫视,http://38.75.136.137:98/gslb/dsdqca/sdwshd.m3u8?auth=test20251009$LR•IPV4•29『线路4』
-山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8$LR•IPV4•29『线路5』
-山东卫视,http://107.150.60.122/live/sdwshd.m3u8$LR•IPV4•29『线路6』
-山东卫视,http://192.151.150.154/live/sdwshd.m3u8$LR•IPV4•29『线路7』
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8$LR•IPV4•29『线路8』
-山东卫视,http://198.204.228.26/live/sdws4k.m3u8$LR•IPV4•29『线路9』
-山东卫视,http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8$LR•IPV4•29『线路10』
-山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8$LR•IPV4•29『线路11』
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$LR•IPV4•29『线路2』
+山东卫视,http://38.75.136.137:98/gslb/dsdqca/sdwshd.m3u8?auth=test20251009$LR•IPV4•29『线路3』
+山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8$LR•IPV4•29『线路4』
+山东卫视,http://107.150.60.122/live/sdwshd.m3u8$LR•IPV4•29『线路5』
+山东卫视,http://192.151.150.154/live/sdwshd.m3u8$LR•IPV4•29『线路6』
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8$LR•IPV4•29『线路7』
+山东卫视,http://198.204.228.26/live/sdws4k.m3u8$LR•IPV4•29『线路8』
+山东卫视,http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8$LR•IPV4•29『线路9』
+山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8$LR•IPV4•29『线路10』
 河南卫视,http://smartzhu.cn:1234/790187291$LR•IPV4•29『线路1』
 河南卫视,http://my1nas.dpdns.org:1234/790187291$LR•IPV4•29『线路2』
 河南卫视,http://www.20260809.xyz:1234/790187291$LR•IPV4•29『线路3』
@@ -585,15 +584,14 @@ CCTV17农业农村,http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•29�
 重庆卫视,http://xch819.cn:7788/738910914$LR•IPV4•29『线路4』
 重庆卫视,https://tv.zhuhongxuan.cn/738910914$LR•IPV4•29『线路5』
 重庆卫视,http://njdm.i234.me:1234/738910914$LR•IPV4•29『线路6』
-重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing$LR•IPV4•29『线路7』
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$LR•IPV4•29『线路8』
-重庆卫视,http://38.75.136.137:98/gslb/dsdqca/cqwshd.m3u8?auth=test20251009$LR•IPV4•29『线路9』
-重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8$LR•IPV4•29『线路10』
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8$LR•IPV4•29『线路11』
-重庆卫视,http://192.151.150.154/live/cqwshd.m3u8$LR•IPV4•29『线路12』
-重庆卫视,http://198.204.228.26/live/cqwshd.m3u8$LR•IPV4•29『线路13』
-重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8$LR•IPV4•29『线路14』
-重庆卫视,http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8$LR•IPV4•29『线路15』
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$LR•IPV4•29『线路7』
+重庆卫视,http://38.75.136.137:98/gslb/dsdqca/cqwshd.m3u8?auth=test20251009$LR•IPV4•29『线路8』
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8$LR•IPV4•29『线路9』
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8$LR•IPV4•29『线路10』
+重庆卫视,http://192.151.150.154/live/cqwshd.m3u8$LR•IPV4•29『线路11』
+重庆卫视,http://198.204.228.26/live/cqwshd.m3u8$LR•IPV4•29『线路12』
+重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8$LR•IPV4•29『线路13』
+重庆卫视,http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8$LR•IPV4•29『线路14』
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan$LR•IPV4•29『线路1』
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan4k$LR•IPV4•29『线路2』
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$LR•IPV4•29『线路3』
@@ -770,4 +768,4 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe$LR•IPV4•29『线�
 江西少儿,http://198.204.228.26/live/jxtv6.m3u8$LR•IPV4•29『线路3』
 深圳少儿,http://nn.7x9d.cn/深圳最新.php?id=szse$LR•IPV4•29『线路1』
 灵鹿整合,#genre#
-20261012 03:24,https://d.kstore.dev/download/7547/20260401003530.mp4
+20261012 08:18,https://d.kstore.dev/download/7547/20260401003530.mp4
